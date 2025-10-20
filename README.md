@@ -1,4 +1,4 @@
-# Azure SDK for Go
+# Azure SDK 
 
 [![godoc](https://godoc.org/github.com/Azure/azure-sdk-for-go?status.svg)](https://godoc.org/github.com/Azure/azure-sdk-for-go)
 
