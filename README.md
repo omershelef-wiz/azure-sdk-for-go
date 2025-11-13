@@ -2,7 +2,7 @@
 
 [![godoc](https://godoc.org/github.com/Azure/azure-sdk-for-go?status.svg)](https://godoc.org/github.com/Azure/azure-sdk-for-go)
 
-This repository is for active development of the Azure SDK for Go. For consumers of the SDK you can follow the links below to visit the documentation you are interested in
+This repository is for active development of the Azure SDK for Go. For consumers of the SDK you can follow the links below to visit the documentation you are  interested in
 * [Overview of Azure SDK for Go](https://docs.microsoft.com/azure/developer/go/)
 * [SDK Reference](https://pkg.go.dev/github.com/Azure/azure-sdk-for-go/sdk)
 * [Code Samples for Azure Go SDK](https://github.com/azure-samples/azure-sdk-for-go-samples)
